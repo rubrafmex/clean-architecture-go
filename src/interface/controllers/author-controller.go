@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/vidu171/clean-architecture-go/domain"
+	"github.com/rubrafmex/clean-architecture-go/domain"
 
-	"github.com/vidu171/clean-architecture-go/usecases"
+	"github.com/rubrafmex/clean-architecture-go/usecases"
 )
 
 type AuthorController struct {

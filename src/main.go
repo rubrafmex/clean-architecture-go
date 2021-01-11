@@ -5,14 +5,14 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/vidu171/clean-architecture-go/infrastructure/db"
+	"github.com/rubrafmex/clean-architecture-go/infrastructure/db"
 
-	"github.com/vidu171/clean-architecture-go/usecases"
+	"github.com/rubrafmex/clean-architecture-go/usecases"
 
-	"github.com/vidu171/clean-architecture-go/interface/controllers"
+	"github.com/rubrafmex/clean-architecture-go/interface/controllers"
 
-	"github.com/vidu171/clean-architecture-go/infrastructure/router"
-	"github.com/vidu171/clean-architecture-go/interface/repository"
+	"github.com/rubrafmex/clean-architecture-go/infrastructure/router"
+	"github.com/rubrafmex/clean-architecture-go/interface/repository"
 )
 
 var (

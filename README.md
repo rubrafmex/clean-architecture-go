@@ -4,9 +4,9 @@ My Implementation of clean architecture in GOLang.
 ## Building
 Like Every Go application you can just run the following command to fetch the code
 ```
-go get github.com/vidu171/clean-architecture-go
+go get github.com/rubrafmex/clean-architecture-go
 ```
-This will fetch the code in `$GOPATH//src/github.com/vidu171/clean-architecture-go` 
+This will fetch the code in `$GOPATH//src/github.com/rubrafmex/clean-architecture-go` 
 from inside the `./src` folder run the build command to build the code
 ```
 go build

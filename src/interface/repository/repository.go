@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/vidu171/clean-architecture-go/domain"
+import "github.com/rubrafmex/clean-architecture-go/domain"
 
 type DBHandler interface {
 	FindAllBooks() ([]*domain.Book, error)

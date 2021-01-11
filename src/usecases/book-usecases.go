@@ -3,7 +3,7 @@ package usecases
 import (
 	"log"
 
-	"github.com/vidu171/clean-architecture-go/domain"
+	"github.com/rubrafmex/clean-architecture-go/domain"
 )
 
 type BookInteractor struct {

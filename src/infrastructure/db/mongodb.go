@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/vidu171/clean-architecture-go/domain"
+	"github.com/rubrafmex/clean-architecture-go/domain"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
